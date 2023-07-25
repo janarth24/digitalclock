@@ -18,7 +18,7 @@ const Clock = () => {
   <div className='fgh'>
         <div className="clk">
             <h1>{currentTime}</h1>
-            {/**hhyvg */}
+         
         </div>
     </div>
   )
